@@ -24,6 +24,36 @@ North is meant to be a living document. Standards and best practices change, and
 6. JavaScript
 7. Progressive Enhancement
 
+# Development Process
+
+When developing a modern web site, many of the traditional development methodologies that teams and clients are use to simply do not work to create maintainable, valuable, and future friendly sites. The idea creating a website starts with a picture, and after all of the pictures have been drawn they get thrown over a wall to a development team to build, with the client not seeing the finished product until the very end.
+
+This does not work.
+
+Instead, what should be employed is a process that allows for constant and iterative communication and development of a project throughout its initial build, working together to build the most value for a product by launch date, with continued work post launch to render the project feature-complete. That will mean that the definition of done changes from one where all features are complete for launch date to one where as many features as were able to be built from a prioritized list are available at launch, with the rest added after launch.
+
+## Agile Scrum
+
+To accomplish a constant and iterative communication and development process, a modified Agile Scrum approach should be taken.
+
+### Roles
+
+* **Product Owner**
+* **Scrum Master**
+* **Requirements Engineer**
+* **Developers**
+* **Quality Assurance**
+* **Visual Designers**
+
+## Requirements Gathering
+
+In order to build a successful website, each feature needs flushed out requirements. Features and requirements may change throughout the life of a project, so a system needs to be in place in order to effectively 
+
+
+# Content Strategy
+
+# Visual Design
+
 
 # Building Websites
 
